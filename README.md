@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Inventory Management System 📦
 
 > **College Final Project** — A modern, fully functional full-stack Product Inventory Management System featuring full CRUD operations, dynamic analytics, category grouping, and automatic stock alerts. Built with **React.js**, **Express.js**, and **Supabase PostgreSQL**.
@@ -315,3 +316,6 @@ When demonstrating this project to professors and classmates:
 ## 📄 License
 This project is open-source and built for academic and portfolio demonstration purposes.
 
+=======
+# BICOR-Product-Management
+>>>>>>> 94412a2d86c11741877d3e1fb6c7f18794131ca9
